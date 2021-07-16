@@ -26,4 +26,4 @@ ________________________________________________________________________________
 
 #### How to setup
 ___________________________________________________________________________________________________________________
-Can see how to setup src/templates/README.md
+###### Can see how to setup is [How To Setup](https://github.com/6110110556/creame-heroes/tree/main/src/templates).
