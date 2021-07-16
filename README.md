@@ -24,4 +24,6 @@ ________________________________________________________________________________
 ![alt text](https://raw.githubusercontent.com/6110110556/creame-heroes/main/src/assets/capture/blog-detail-01.PNG)
 ![alt text](https://raw.githubusercontent.com/6110110556/creame-heroes/main/src/assets/capture/blog-detail-02.PNG)
 
-
+#### How to setup
+___________________________________________________________________________________________________________________
+Can see how to setup src/templates/README.md
