@@ -6,6 +6,7 @@
 
 const path = require("path")
 
+
 // Set Global Preprocessor Files
 function addStyleResource(rule) {
   rule
@@ -17,7 +18,9 @@ function addStyleResource(rule) {
 }
 
 module.exports = {
-  siteName: "Paul Ozyzniewski Portfolio",
+  siteName: "CreamHeroes",
+  siteUrl: 'https://6110110556.github.io',
+  pathPrefix: '/creame-heroes',
   plugins: [
     {
       use: "gridsome-plugin-base-components"
@@ -48,3 +51,5 @@ module.exports = {
     svgRule.use("vue-svg-loader").loader("vue-svg-loader")
   }
 }
+
+

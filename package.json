@@ -11,7 +11,9 @@
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
-    "explore": "gridsome explore"
+    "explore": "gridsome explore",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "husky": {
     "hooks": {
@@ -30,6 +32,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
     "@fortawesome/vue-fontawesome": "^0.1.8",
     "@gridsome/vue-remark": "^0.1.9",
+    "gh-pages": "^3.2.3",
     "gridsome": "^0.7.10",
     "gsap": "^3.0.4",
     "lodash-es": "^4.17.15",
