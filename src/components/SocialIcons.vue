@@ -26,13 +26,9 @@ export default {
     return {
       websites: [
         {
-          link: "https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit",
+          link: "https://github.com/6110110556/creame-heroes",
           svg: "github"
         },
-        // {
-        //   link: "https://github.com/OziOcb/Gridsome-and-Markdown-Starter-Kit",
-        //   svg: "linkedin"
-        // }
       ]
     }
   }
